@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ruberson.maia\.android\build-cache\6a358f295b2e5bf92f4a0cb630217e008efe1aec\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ruberson.maia\.android\build-cache\ff5542307be3276d30332d6182b7533be05b269d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ruberson.maia\.android\build-cache\c3d82424602facd9e159d5f7f3f272900c48ce45\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ruberson.maia\.android\build-cache\f4b68d99b2abe50a55839fa13a2458fa7f2df7ef\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ruberson.maia\.android\build-cache\b84ba55fb15cffacf56e8f00f4dc3f9312cd5ffe\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ruberson.maia\.android\build-cache\1a6b000f38dfa29c7315a90a7f239c999babff67\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ruberson.maia\.android\build-cache\2b38f728ce1d4e7b1018f88ca52939215d1fa7f0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ruberson.maia\.android\build-cache\776063cb09ac1c7e4ef5f0efbecc9fb23936a521\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ruberson.maia\.android\build-cache\84a0682ae06f070c6c43293874d79a84a03d7c12\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ruberson.maia\.android\build-cache\01d7564ab121198d373226cb09820e5479b1c6d5\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.rusneymaia.rusneymaia.MainActivity
+ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.rusneymaia.rusneymaia.AgendamentoActivity
+ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:19:9-66
+	android:name
+		ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:19:19-54
+activity#com.example.rusneymaia.rusneymaia.CadastrarActivity
+ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:20:9-64
+	android:name
+		ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:20:19-52
+activity#com.example.rusneymaia.rusneymaia.HorariosActivity
+ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:21:9-63
+	android:name
+		ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:21:19-51
+activity#com.example.rusneymaia.rusneymaia.RecuperarSenhaActivity
+ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:22:9-69
+	android:name
+		ADDED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml:22:19-57
+uses-sdk
+INJECTED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ruberson.maia\.android\build-cache\6a358f295b2e5bf92f4a0cb630217e008efe1aec\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ruberson.maia\.android\build-cache\ff5542307be3276d30332d6182b7533be05b269d\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ruberson.maia\.android\build-cache\c3d82424602facd9e159d5f7f3f272900c48ce45\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ruberson.maia\.android\build-cache\f4b68d99b2abe50a55839fa13a2458fa7f2df7ef\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ruberson.maia\.android\build-cache\b84ba55fb15cffacf56e8f00f4dc3f9312cd5ffe\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ruberson.maia\.android\build-cache\1a6b000f38dfa29c7315a90a7f239c999babff67\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ruberson.maia\.android\build-cache\2b38f728ce1d4e7b1018f88ca52939215d1fa7f0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ruberson.maia\.android\build-cache\776063cb09ac1c7e4ef5f0efbecc9fb23936a521\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ruberson.maia\.android\build-cache\84a0682ae06f070c6c43293874d79a84a03d7c12\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ruberson.maia\.android\build-cache\01d7564ab121198d373226cb09820e5479b1c6d5\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ruberson.maia\.android\build-cache\6a358f295b2e5bf92f4a0cb630217e008efe1aec\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ruberson.maia\AndroidStudioProjects\rusneymaia\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ruberson.maia\.android\build-cache\6a358f295b2e5bf92f4a0cb630217e008efe1aec\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ruberson.maia\.android\build-cache\ff5542307be3276d30332d6182b7533be05b269d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ruberson.maia\.android\build-cache\c3d82424602facd9e159d5f7f3f272900c48ce45\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ruberson.maia\.android\build-cache\f4b68d99b2abe50a55839fa13a2458fa7f2df7ef\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ruberson.maia\.android\build-cache\b84ba55fb15cffacf56e8f00f4dc3f9312cd5ffe\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ruberson.maia\.android\build-cache\1a6b000f38dfa29c7315a90a7f239c999babff67\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ruberson.maia\.android\build-cache\2b38f728ce1d4e7b1018f88ca52939215d1fa7f0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ruberson.maia\.android\build-cache\776063cb09ac1c7e4ef5f0efbecc9fb23936a521\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ruberson.maia\.android\build-cache\84a0682ae06f070c6c43293874d79a84a03d7c12\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ruberson.maia\.android\build-cache\6a358f295b2e5bf92f4a0cb630217e008efe1aec\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ruberson.maia\.android\build-cache\6a358f295b2e5bf92f4a0cb630217e008efe1aec\output\AndroidManifest.xml:26:9-47
